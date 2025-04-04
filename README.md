@@ -1,3 +1,5 @@
 # MyFirst_555
 my first repository 
-<br>Autor - Amit Kadam
+<br>
+Autor - Amit Kadam(myRepo)
+
